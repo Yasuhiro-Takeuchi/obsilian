@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "68e8b2c414483449",
+    "type": "split",
+    "children": [
+      {
+        "id": "f572957c227fd8f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54eae273948c8825",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01_Inbox/python手の認識.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 3.5987766434347903,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "fcd341705748bef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/python手の認識.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74210246aaeb921b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/python手の認識.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2a17318d91f015b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7fce6fc3c236864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b799a11e1bd31c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e95bba62e68f9c23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#授業/3年前期/ゼミ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae2da80c4dfe2bd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef34ea986d74b6c8",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0db0722dbf0a54d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b90826cec258ed2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7452b664b3c15fa1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Inbox/python手の認識.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "261e5944aaef7a0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Inbox/python手の認識.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fab761ff1df3b0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec9fe086d7445821",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Inbox/python手の認識.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "templates:テンプレートを挿入": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "command-palette:コマンドパレットを開く": false,
+      "graph:グラフビューを開く": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "74210246aaeb921b",
+  "lastOpenFiles": [
+    "01_Inbox/卒検.md",
+    "01_Inbox/ゼミ.md",
+    "01_Inbox/MediaPipeについて.md",
+    "01_Inbox/影の認識.md",
+    "01_Inbox/python手の認識.md",
+    "01_Inbox/授業.md",
+    "01_Inbox/卒研のデモ発表概要.md",
+    "01_Inbox/無題のファイル.canvas",
+    "01_Inbox/無題のファイル 2.canvas",
+    "01_Inbox/無題のファイル 3.canvas",
+    "01_Inbox/基礎情報数学 第二回.md",
+    "01_Inbox/Obsidianの使い方.md",
+    "01_Inbox/Pasted image 20240716155556.png",
+    "01_Inbox/3年前期.md",
+    "01_Inbox/().md",
+    "02_Daily/2024-07-14.md",
+    "01_Inbox/pythonでやりたいこと.md",
+    "01_Inbox/pythonで遊んでみたい.md",
+    "01_Inbox/Pythonを使った手の認識.md",
+    "01_Inbox/unity to toio.md",
+    "01_Inbox/シミュレータでのtoioの実行.md",
+    "01_Inbox/タグの付け方.md",
+    "01_Inbox/プログラミングの勉強.md",
+    "01_Inbox/開発環境の構築.md",
+    "01_Inbox/現実世界でのtoioの実行.md",
+    "01_Inbox/python.md",
+    "01_Inbox/pythonで影の認識.md",
+    "01_Inbox/Mediapipeとは.md",
+    "01_Inbox/Pasted image 20240716160041.png",
+    "01_Inbox/Pasted image 20240716155722.png",
+    "01_Inbox/Pasted image 20240716155619.png",
+    "01_Inbox/Pasted image 20240716154336.png",
+    "01_Inbox/かわいい系.md",
+    "01_Inbox/無題のファイル 1.md",
+    "01_Inbox/スクリーンショット 2024-07-15 222342.png",
+    "01_Inbox/無題のファイル 1.canvas",
+    "90_Templates",
+    "03_Extra",
+    "02_Daily",
+    "01_Inbox"
+  ]
+}

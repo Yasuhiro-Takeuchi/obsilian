@@ -1,0 +1,735 @@
+{
+  "main": {
+    "id": "e0378b6fd7a6a6d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f54a9b4c113fefd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ee5c641a9016357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e3a49fc4ea0254f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da2cad55d999e445",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3cdd4bd651aaba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Daily/2024-07-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f57ec0aaaab20910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Daily/2024-07-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64f9eee3c0b7a6cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Daily/2024-07-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05c4ba0fd5c47d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e896c8e25f5970ff",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "group": "26f8bc4a5eeec588"
+          },
+          {
+            "id": "825710aed093b4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Daily/2024-07-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b62cf50dab142db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/pythonで遊んでみたい.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "dfbd96f888a9e18c"
+          },
+          {
+            "id": "8a5e20b03a03eb94",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            },
+            "group": "bf4e0010cfbef190"
+          },
+          {
+            "id": "d4b0a071c24c5f53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python手の認識.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "bec21e8712348a71"
+          }
+        ],
+        "currentTab": 11
+      },
+      {
+        "id": "c53f3a9ac89b6529",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6f24d678e8df4ba",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "python手の認識.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.9718346750780855,
+                  "close": true
+                }
+              }
+            },
+            "group": "bec21e8712348a71"
+          }
+        ]
+      },
+      {
+        "id": "fe58d9239106ecc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bae108d60a13ebbb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "python手の認識.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "bec21e8712348a71"
+          }
+        ]
+      },
+      {
+        "id": "4c620f27020966ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57dab9ef52992547",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "python手の認識.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "bec21e8712348a71"
+          }
+        ]
+      },
+      {
+        "id": "94980487ae702c07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c889bb67e0e74459",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "python手の認識.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "bec21e8712348a71"
+          }
+        ]
+      },
+      {
+        "id": "3223dc6d0a7d591c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f613f150b34e61a1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "python手の認識.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "bec21e8712348a71"
+          }
+        ]
+      },
+      {
+        "id": "36b4918753cb5c97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8628b8a4e8675bb1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Pythonを使った手の認識.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.9830967496980914,
+                  "close": true
+                }
+              },
+              "pinned": true
+            },
+            "group": "bf4e0010cfbef190"
+          }
+        ]
+      },
+      {
+        "id": "68239ad81e70dca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a50c7e879b0af975",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Pythonを使った手の認識.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "pinned": true
+            },
+            "group": "bf4e0010cfbef190"
+          }
+        ]
+      },
+      {
+        "id": "03f2e19df75736cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b9c3e7ebf75e52c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01_Inbox/pythonで遊んでみたい.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "dfbd96f888a9e18c"
+          }
+        ]
+      },
+      {
+        "id": "ff74c55fa56fb026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d821552d5ece428",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01_Inbox/pythonで遊んでみたい.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "dfbd96f888a9e18c"
+          }
+        ]
+      },
+      {
+        "id": "24c51baa83a2fc0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04d1650f4e9a8957",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01_Inbox/Obsidianの使い方.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 3.2087152420136014,
+                  "close": false
+                }
+              }
+            },
+            "group": "26f8bc4a5eeec588"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cb5811ffdb6422b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ee4d4289ac56d939",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8de785a0adffeea4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#授業/3年前期/ゼミ/卒研",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": true,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "038cfa01f0211150",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "21b3ac0aa4c6d627",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "4b2daf560f435be4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "25d0546280764247",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "python手の認識.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "495ae2d3435355e9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "python手の認識.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c8366df404a0d863",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "python手の認識.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "d4b0a071c24c5f53",
+  "lastOpenFiles": [
+    "Mediapipeとは.md",
+    "python手の認識.md",
+    "卒検.md",
+    "影の認識.md",
+    "卒検.md.tacitpart",
+    "python手の認識.md.tacitpart",
+    "pythonで影の認識.md",
+    "MediaPipeについて.md",
+    "影の検知.md",
+    "Pythonを使った手の認識.md",
+    "Mediapipe.md",
+    "Untitled.md",
+    "unity to toio.md",
+    "python.md",
+    "().md",
+    "01_Inbox/授業.md",
+    "01_Inbox/卒研のデモ発表概要.md",
+    "01_Inbox/卒研のデモ発表概要.md.tacitpart",
+    "01_Inbox/プログラミングの勉強.md.tacitpart",
+    "01_Inbox/ゼミ.md",
+    "01_Inbox/ゼミ.md.tacitpart",
+    "01_Inbox/3年前期.md",
+    "01_Inbox/3年前期.md.tacitpart",
+    "開発環境の構築.md",
+    "開発環境の構築.md.tacitpart",
+    "無題のファイル 1.md",
+    "無題のファイル 1.md.tacitpart",
+    "シミュレータでのtoioの実行.md",
+    "シミュレータでのtoioの実行.md.tacitpart",
+    "unity to toio.md.tacitpart",
+    "Pasted image 20240716160041.png",
+    "Pasted image 20240716155722.png",
+    "Pasted image 20240716155619.png",
+    "Pasted image 20240716155556.png",
+    "Pasted image 20240716154336.png",
+    "01_Inbox/タグの付け方.md",
+    "無題のファイル.md",
+    "01_Inbox/Obsidianの使い方.md",
+    "01_Inbox/基礎情報数学 第二回.md",
+    "02_Daily/2024-07-14.md",
+    "01_Inbox/プログラミングの勉強.md",
+    "無題のファイル 3.canvas",
+    "スクリーンショット 2024-07-15 222342.png",
+    "無題のファイル 2.canvas",
+    "無題のファイル.canvas",
+    "無題のファイル 1.canvas"
+  ]
+}
